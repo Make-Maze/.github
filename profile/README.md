@@ -10,4 +10,4 @@
 - "2022 광주 고교학점제 박람회"
 
 
-![소개_이미지](./intro_1.png)
+![소개_이미지](https://github.com/Make-Maze/.github/blob/main/profile/intro_1.png)
