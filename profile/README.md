@@ -1,7 +1,13 @@
 # Make & Maze
 
-[![demo_video](https://github.com/Make-Maze/.github/assets/80192911/da590281-c314-4333-ba8d-484a52b65b84)](https://drive.google.com/file/d/1-OhGfzNXHyNPxHM6rI-bs1BDKZwVEjy8/view)
+## 시연 영상
 
+이미지를 클릭하면 영상 주소로 이동합니다.  
+<a href="https://drive.google.com/file/d/1-OhGfzNXHyNPxHM6rI-bs1BDKZwVEjy8/view">
+    <img src="https://github.com/Make-Maze/.github/assets/80192911/da590281-c314-4333-ba8d-484a52b65b84" width="60%" alt="demo_img">
+</a>
+
+## 소개
 **Make & Maze**(약칭 M&M)는 사용자가 직접 미로를 만들고 공유하는 게임입니다.    
 저희는 다양한 부스 운영을 통해 80개 이상의 미로를 제작하며 다채로운 사용자 경험을 쌓았습니다.
 
